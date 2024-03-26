@@ -1,4 +1,4 @@
-Você pode ler esse arquivo em Português clicando [aqui](./README.md) :brazil:
+Você pode ler esse arquivo em Português clicando [aqui](./README.md)
 
 # Instagram Login Page Clone :iphone:
 
