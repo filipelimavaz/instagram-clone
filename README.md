@@ -20,9 +20,9 @@ Link da aplicação online: https://filipelimavaz-instagram-clone.netlify.app/
 
 ## Screenshots
 
-1. Versão Desktop
+1. Versão Desktop </br>
 ![Desktop](imgs/computer-screen-print.png)
 
-2. Versão Mobile
+2. Versão Mobile </br>
 ![Mobile](imgs/mobile-screen-print.png)
 
