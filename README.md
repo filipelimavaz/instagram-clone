@@ -2,7 +2,7 @@ You can read this doc in english by clicking [here](./README-english.md)
 
 # Clone da Página de Login do Instagram :iphone:
 
-Este é um projeto onde realizei a clonagem da página de login do Instagram. O objetivo principal foi praticar minhas habilidades em desenvolvimento web, incluindo HTML, CSS e possivelmente JavaScript.
+Este é um projeto onde realizei a clonagem da página de login do Instagram. O objetivo principal foi praticar minhas habilidades em desenvolvimento web, incluindo HTML e CSS.
 
 ## Demonstração
 
